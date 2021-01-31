@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ClassPer3\ClassPer3\bin\Debug\ClassPer3.exe.config
+C:\Users\Asus\source\repos\ClassPer3\ClassPer3\bin\Debug\ClassPer3.exe
+C:\Users\Asus\source\repos\ClassPer3\ClassPer3\bin\Debug\ClassPer3.pdb
+C:\Users\Asus\source\repos\ClassPer3\ClassPer3\obj\Debug\ClassPer3.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ClassPer3\ClassPer3\obj\Debug\ClassPer3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ClassPer3\ClassPer3\obj\Debug\ClassPer3.exe
+C:\Users\Asus\source\repos\ClassPer3\ClassPer3\obj\Debug\ClassPer3.pdb
